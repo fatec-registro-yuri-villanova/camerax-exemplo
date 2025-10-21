@@ -171,17 +171,6 @@ O aplicativo utiliza:
 - Utiliza APIs modernas com fallback quando necessário
 - Compatível com diferentes tamanhos de tela
 
-## 🐛 Troubleshooting
-
-### Problema: Câmera não inicializa
-**Solução**: Verifique se as permissões foram concedidas e se o dispositivo possui câmera funcional
-
-### Problema: Erro ao salvar foto
-**Solução**: Verifique o espaço disponível no armazenamento do dispositivo
-
-### Problema: Preview aparece distorcido
-**Solução**: O app usa `ScaleType.FILL_CENTER` que pode cortar a imagem. Isso é intencional para melhor experiência visual
-
 ## 🤝 Contribuindo
 
 Este é um projeto educacional. Sugestões e melhorias são bem-vindas!
